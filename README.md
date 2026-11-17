@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040181
+# Name: KAWIN K V
+# Date: 17-11-2026
 
 
 # AIM:
@@ -38,6 +38,9 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -49,7 +52,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="1135" height="938" alt="image" src="https://github.com/user-attachments/assets/f6937c0c-f03c-4e94-a687-7f21b93ebcd7" />
 
 
 
@@ -68,6 +71,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1171" height="957" alt="image" src="https://github.com/user-attachments/assets/a7565d47-684c-435c-ab70-ae82973912a1" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +80,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1040" height="793" alt="image" src="https://github.com/user-attachments/assets/2062f10a-094e-47e6-8725-03aa189632df" />
 
 
 
@@ -89,6 +94,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="982" height="657" alt="image" src="https://github.com/user-attachments/assets/be297f38-a201-4486-815d-14cb28c4e5c5" />
 
 
 
@@ -107,6 +113,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1037" height="801" alt="image" src="https://github.com/user-attachments/assets/0cc2bb6b-142b-46da-b186-21601e19f256" />
 
 
 
@@ -128,6 +135,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="928" height="805" alt="image" src="https://github.com/user-attachments/assets/a79b30ad-2c4e-468c-9172-013903631312" />
 
 
 
@@ -135,4 +143,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
